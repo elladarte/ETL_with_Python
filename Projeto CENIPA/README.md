@@ -9,7 +9,7 @@ O objetivo desse projeto é praticar o processo de ETL (extração, transformaç
 
 ## Tabelas (arquivos)
 
-As tabelas(arquivos encontram-se no diretorio [data](). Segue abaixo uma breve descrição dos dados presentes em cada uma delas.
+As tabelas(arquivos) encontram-se no diretorio [data](). Segue abaixo uma breve descrição dos dados presentes em cada uma delas.
 
 - OCORRÊNCIA.csv - Informações sobre as ocorrências.
 - OCORRÊNCIA_TIPO.csv - Informações sobre o tipo de ocorrência.
