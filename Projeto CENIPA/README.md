@@ -23,3 +23,30 @@ Fonte: Sistema DÉDALO.
 <p align="center">
 <img src="https://raw.githubusercontent.com/elladarte/Python_Pandas/main/Projeto%20CENIPA/images/modelo_dados.png"/> </br>
 </p>
+
+
+## Requirements
+
+Python 3 e pip. É altamente recomendável usar ambientes virtuais com `virtualenv` e o arquivo `requirements.txt` para instalar os pacotes de dependência para este desafio:
+
+```bash
+$ pip3 install virtualenv
+$ virtualenv venv -p python3
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
+
+Windows
+
+```bash
+> pip3 install virtualenv
+> virtualenv ..\venv -p python3
+> ..\venv\Scripts\activate
+> pip install -r requirements.txt
+```
+
+Quando terminar sua tarefa, você pode desativar seu  `venv` com:
+
+```bash
+$ deactivate
+```
