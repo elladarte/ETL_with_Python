@@ -1,8 +1,7 @@
 # Python com Pandas
 
 <p align="center">
-<img src="https://pandas.pydata.org/docs/_static/pandas.svg"/> </br>
-<img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=yellow&style=for-the-badge"/>
+<img src=""/> </br>
 </p>
 
 ## Pandas
@@ -13,3 +12,6 @@ Pandas é uma biblioteca de código aberto licenciada por BSD que fornece estrut
 pip install pandas 
 ```
 
+## Projetos
+ 
+- [Projeto CENIPA](https://github.com/elladarte/Python_Pandas/tree/main/Projeto%20CENIPA)
