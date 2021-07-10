@@ -1,7 +1,7 @@
 # Projeto CENIPA
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/elladarte/Python_Pandas/main/pandas.svg"/> </br>
+<img src="https://raw.githubusercontent.com/elladarte/Python_Pandas/main/Projeto%20CENIPA/images/cenipa.jpg"/> </br>
 <img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=yellow&style=for-the-badge"/>
 </p>
 
